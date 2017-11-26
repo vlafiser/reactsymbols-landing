@@ -1,0 +1,12 @@
+public/styles/site/
+public/styles/site.less
+
+public/js/masonry.min.js
+public/js/masonry.min-dist.js
+public/js/lightslider.min.js
+public/js/jets.min.js
+public/js/init.js
+public/js/init-min-dist.js
+public/js/init-min-dist.js.map
+
+prepros-6.config
